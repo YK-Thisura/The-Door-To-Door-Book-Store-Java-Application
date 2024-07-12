@@ -10,6 +10,7 @@ The Door To Door Book Store is a robust Java web application developed using Net
   - Delete existing records.
   - Update information.
   - Clear records as needed.
+
 - **Search Functionality:**
   - Locate books by entering the book's name or the author's name.
 
