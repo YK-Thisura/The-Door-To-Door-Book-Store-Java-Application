@@ -26,6 +26,7 @@ The Door To Door Book Store is a robust Java web application developed using Net
 - Log in as an admin to manage book records and use the search functionality.
 
 ## Screenshots
-![Door To Door Bookstore](https://github.com/user-attachments/assets/87999202-4b3a-4e70-aebe-35a67c6fbb7a)
+![The Door To Door Book Store](https://github.com/user-attachments/assets/b8b3585c-05cf-4077-8846-25dcf2ccaaf6)
+
 
 
